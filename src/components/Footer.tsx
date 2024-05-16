@@ -32,7 +32,7 @@ function Footer(): React.JSX.Element{
 }
 
 const styles= StyleSheet.create({
-    manuList:{
+    menuList:{
         flexGrow:1
     },
     footer:{
